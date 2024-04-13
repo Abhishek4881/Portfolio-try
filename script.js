@@ -9,14 +9,6 @@ typewriter
   .typeString("I'm a Web Developer.")
   .pauseFor(1000)
   .deleteChars(14)
-  .typeString("UI/UX Designer.")
-  .pauseFor(1000)
-  .deleteChars(15)
-  .typeString("Graphic Designer.")
-  .pauseFor(1000)
-  .deleteChars(19)
-  .typeString("an Artist.")
-  .pauseFor(1000)
   .start();
 
 //Nav Bar Functioning
